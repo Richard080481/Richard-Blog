@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Church and Santa Monica"
+title: "教會與Santa Monica"
 date: 2025-08-10
 categories: diary
 ---

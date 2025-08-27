@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Room Setup with Friends"
+title: "整理房間"
 date: 2025-08-09
 categories: diary
 ---

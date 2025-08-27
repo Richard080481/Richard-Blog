@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U-Pass and Credit Card Activation"
+title: "U-Pass與信用卡啟用"
 date: 2025-08-11
 categories: diary
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Party and Haircut"
+title: "派對與剪頭髮"
 date: 2025-08-22
 categories: diary
 ---

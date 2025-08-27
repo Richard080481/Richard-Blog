@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Convocation Day"
+title: "開學典禮日"
 date: 2025-08-21
 categories: diary
 ---

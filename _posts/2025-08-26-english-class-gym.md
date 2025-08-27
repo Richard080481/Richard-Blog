@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "English Class and Gym"
+title: "英文課與健身"
 date: 2025-08-26
 categories: diary
 ---

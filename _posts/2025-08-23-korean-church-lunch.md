@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Korean Church Lunch"
+title: "韓國牧師請午餐"
 date: 2025-08-23
 categories: diary
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Desert Hills Outlet Trip"
+title: "Desert Hills Outlet之旅"
 date: 2025-08-19
 categories: diary
 ---

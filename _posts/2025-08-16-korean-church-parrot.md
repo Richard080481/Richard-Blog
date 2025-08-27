@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Korean Church Visit and Parrot"
+title: "韓國教會拜訪與鸚鵡"
 date: 2025-08-16
 categories: diary
 ---

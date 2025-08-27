@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "South Pasadena Trip"
+title: "South Pasadena 之行"
 date: 2025-08-15
 categories: diary
 ---

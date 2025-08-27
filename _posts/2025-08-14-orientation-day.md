@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orientation Day"
+title: "新生訓練日"
 date: 2025-08-14
 categories: diary
 ---

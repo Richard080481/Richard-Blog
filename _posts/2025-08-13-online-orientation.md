@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Online Orientation and Job Pressure"
+title: "線上新生訓練與找工作壓力"
 date: 2025-08-13
 categories: diary
 ---

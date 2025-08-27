@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Driver's License Practice"
+title: "駕照練習"
 date: 2025-08-12
 categories: diary
 ---

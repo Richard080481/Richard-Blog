@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Day of School"
+title: "開學第一天"
 date: 2025-08-25
 categories: diary
 ---

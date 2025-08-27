@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Father's Day Call and DMV"
+title: "父親節電話與DMV"
 date: 2025-08-08
 categories: diary
 ---

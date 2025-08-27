@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solo Day in LA"
+title: "洛杉磯獨自一天"
 date: 2025-08-07
 categories: diary
 ---
