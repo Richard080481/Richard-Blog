@@ -3,7 +3,7 @@ description: "My simple diary blog"
 baseurl: "/Richard-Blog" # 你的 repo 名稱
 url: "https://Richard080481.github.io"
 
-theme: jekyll-theme-primer
+# theme: jekyll-theme-primer
 
 plugins:
   - jekyll-feed

@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Richard Blog - Test</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background: #fafafa;
+    }
+    
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+    
+    header {
+      background: white;
+      border-bottom: 1px solid #e1e5e9;
+      padding: 1rem 0;
+      margin-bottom: 2rem;
+    }
+    
+    .header-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .site-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #24292e;
+      text-decoration: none;
+    }
+    
+    .site-title:hover {
+      color: #0366d6;
+    }
+    
+    nav a {
+      color: #586069;
+      text-decoration: none;
+      margin-left: 1.5rem;
+      font-weight: 500;
+    }
+    
+    nav a:hover {
+      color: #0366d6;
+    }
+    
+    main {
+      min-height: 60vh;
+    }
+    
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: #24292e;
+    }
+    
+    h2 {
+      font-size: 1.5rem;
+      margin: 2rem 0 1rem 0;
+      color: #24292e;
+    }
+    
+    p {
+      margin-bottom: 1rem;
+    }
+    
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    ul {
+      list-style: none;
+    }
+    
+    li {
+      margin-bottom: 0.5rem;
+    }
+    
+    .post-card {
+      background: white;
+      border: 1px solid #e1e5e9;
+      border-radius: 6px;
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+      transition: border-color 0.2s ease;
+    }
+    
+    .post-card:hover {
+      border-color: #0366d6;
+    }
+    
+    .post-title {
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: #24292e;
+      margin-bottom: 0.5rem;
+    }
+    
+    .post-date {
+      color: #586069;
+      font-size: 0.875rem;
+    }
+    
+    footer {
+      margin-top: 3rem;
+      padding: 2rem 0;
+      border-top: 1px solid #e1e5e9;
+      text-align: center;
+      color: #586069;
+    }
+    
+    @media (max-width: 768px) {
+      .header-content {
+        flex-direction: column;
+        gap: 1rem;
+      }
+      
+      nav a {
+        margin: 0 0.75rem;
+      }
+      
+      h1 {
+        font-size: 1.75rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-content">
+        <a href="#" class="site-title">Richard Blog</a>
+        <nav>
+          <a href="#">Home</a>
+          <a href="#">Diary</a>
+          <a href="#">About</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+  
+  <main class="container">
+    <h1>Welcome to Richard Blog</h1>
+    <p>My simple diary blog</p>
+
+    <h2>Recent Posts</h2>
+
+    <div class="post-card">
+      <h3 class="post-title">
+        <a href="#">First Day in San Diego</a>
+      </h3>
+      <div class="post-date">July 26, 2025</div>
+    </div>
+
+    <div class="post-card">
+      <h3 class="post-title">
+        <a href="#">San Diego Church Visit</a>
+      </h3>
+      <div class="post-date">July 27, 2025</div>
+    </div>
+
+    <div class="post-card">
+      <h3 class="post-title">
+        <a href="#">Kayaking Adventure</a>
+      </h3>
+      <div class="post-date">July 28, 2025</div>
+    </div>
+
+    <div class="post-card">
+      <h3 class="post-title">
+        <a href="#">Gym at Qualcomm</a>
+      </h3>
+      <div class="post-date">August 2, 2025</div>
+    </div>
+
+    <div class="post-card">
+      <h3 class="post-title">
+        <a href="#">Sore Legs Day</a>
+      </h3>
+      <div class="post-date">August 3, 2025</div>
+    </div>
+
+    <p><a href="#">View all posts →</a></p>
+  </main>
+  
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Richard Blog. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
