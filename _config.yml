@@ -1,7 +1,7 @@
 title: "Richard Blog"
 description: "My simple diary blog"
 baseurl: "/Richard-Blog" # 你的 repo 名稱
-url: "https://<你的GitHub帳號>.github.io"
+url: "https://Richard080481.github.io"
 
 theme: jekyll-theme-primer
 
