@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Korean Church Lunch"
+date: 2025-08-23
+categories: diary
+---
+今天中午韓國教會的牧師帶我去吃설농탕，他們對我很好，很努力用英文跟我說話。  
+我也好久沒有讀韓文了，希望能找到方法在LA繼續讀韓文。

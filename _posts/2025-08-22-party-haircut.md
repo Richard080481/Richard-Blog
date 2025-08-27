@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Party and Haircut"
+date: 2025-08-22
+categories: diary
+---
+今天晚上有party，認識了很多人，也喝很多酒，真的玩得很開。  
+下午第一次去剪頭髮，剪得很不錯，我覺得ok，不然真的會嚇死。  
+感覺認識很多酒肉朋友，不過還是很有趣。

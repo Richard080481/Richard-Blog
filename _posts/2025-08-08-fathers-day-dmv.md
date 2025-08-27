@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Father's Day Call and DMV"
+date: 2025-08-08
+categories: diary
+---
+一早起來打給爸爸說爸爸節快樂，陪他們聊天。  
+後來跟室友去Target，之後去DMV 預約。  
+第三個室友來了，是雄中大我九屆的學長，希望可以跟他們相處很好。  
+ISE沒過，要上英文課靠杯==，後來考過筆試了！錯四題真的是怕爆欸。
