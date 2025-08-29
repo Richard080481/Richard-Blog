@@ -5,7 +5,11 @@ layout: default
 <article>
   <header>
     <h1>{{ page.title }}</h1>
-    <div class="post-date">{{ page.date | date: "%B %d, %Y" }}</div>
+    {% assign start_ts = '2025-07-26' | date: '%s' %}
+    {% assign post_ts = page.date | date: '%s' %}
+    {% assign diff_seconds = post_ts | minus: start_ts %}
+    {% assign day_number = diff_seconds | divided_by: 86400 | plus: 1 %}
+    <div class="post-date">{{ page.date | date: "%B %d, %Y" }} · Day {{ day_number }} in US</div>
   </header>
   
   <div class="post-content">
