@@ -12,7 +12,31 @@ layout: default
     {{ content }}
   </div>
   
-  <footer>
-    <p><a href="{{ '/diary/' | relative_url }}">← Back to all posts</a></p>
+  <footer class="post-navigation">
+    <div class="nav-links">
+      {% if page.previous.url %}
+        <a href="{{ page.previous.url | relative_url }}" class="nav-link prev">
+          <span class="nav-arrow">←</span>
+          <div class="nav-content">
+            <span class="nav-label">Previous Post</span>
+            <span class="nav-title">{{ page.previous.title }}</span>
+          </div>
+        </a>
+      {% endif %}
+      
+      {% if page.next.url %}
+        <a href="{{ page.next.url | relative_url }}" class="nav-link next">
+          <div class="nav-content">
+            <span class="nav-label">Next Post</span>
+            <span class="nav-title">{{ page.next.title }}</span>
+          </div>
+          <span class="nav-arrow">→</span>
+        </a>
+      {% endif %}
+    </div>
+    
+    <div class="back-link">
+      <a href="{{ '/diary/' | relative_url }}">← Back to all posts</a>
+    </div>
   </footer>
 </article>
